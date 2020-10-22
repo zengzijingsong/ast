@@ -1,0 +1,15 @@
+{
+  "name": "ast",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:zengzijingsong/ast.git",
+  "author": "jingsong.zeng <jingsong.zeng@advance.ai>",
+  "license": "MIT",
+  "dependencies": {
+    "escodegen": "^2.0.0",
+    "esprima": "^4.0.1",
+    "estraverse": "^5.2.0",
+    "i": "^0.3.6",
+    "npm": "^6.14.8"
+  }
+}
